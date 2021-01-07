@@ -1,9 +1,23 @@
-### Hi there 👋
+### Hi there 
 
 
-**michael-andreuzza/michael-andreuzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="left">Hi 👋, I'm Michael Andreuzza</h1>
-<h3 align="left">One more</h3>
+<h1 align="left">Michael Andreuzza</h1>
+<h3 align="left">
+Working on :
+</h3>
+<p align="left">
+- http://colorsandfonts.com 
+</p>
+<p align="left">
+- http://wickedtemplates.com 
+</p>
+ 
+<p align="left">
+- http://blocks.wickedtemplates.com. 
+</p>
+
+I Also send a newsletter for devs & designers, http://unicornsfeed.com
+
 
 - 🔭 I’m currently working on [Wicked Templates](http://wickedtemplates.com/)
 
