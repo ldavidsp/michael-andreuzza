@@ -19,13 +19,11 @@ Working on :
 I Also send a newsletter for devs & designers, http://unicornsfeed.com
 
 
-- 🔭 I’m currently working on [Wicked Templates](http://wickedtemplates.com/)
+- I’m currently learning **React**
 
-- 🌱 I’m currently learning **React**
+- Ask me about **Design, Tailwind CSS, UI UX**
 
-- 💬 Ask me about **Design, Tailwind CSS, UI UX**
-
-- 📫 How to reach me **Twitter: @mike_andreuzza**
+- How to reach me **Twitter: @mike_andreuzza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
