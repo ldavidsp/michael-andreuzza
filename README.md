@@ -1,6 +1,4 @@
-### Hi there 
-
-
+![](https://res.cloudinary.com/the-unicorns-feed/image/upload/v1610012643/samples/updated_wyvrwq.png)
 <h1 align="left">Michael Andreuzza</h1>
 <h3 align="left">
 Working on :
